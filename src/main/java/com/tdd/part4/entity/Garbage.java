@@ -1,4 +1,4 @@
-package com.tdd.part4;
+package com.tdd.part4.entity;
 
 /**
  * Created by TDD on 2017/3/12.
@@ -14,7 +14,7 @@ public class Garbage {
             new Chair();
             new String("To take up space");
         }
-        System.out.println("After all Chairs have been created:\n"+"total created = "+Chair.created+",total" +
+        System.out.println("After all Chairs have been created:\n"+"total created = "+ Chair.created+",total" +
                 " finalized = "+ Chair.finalized);
         if(args[0].equals("beforce")){
             System.out.println("gc():");

@@ -1,4 +1,4 @@
-package com.tdd.part4.initializationorder;
+package com.tdd.part4.entity;
 
 /**
  * Created by TDD on 2017/3/12.

@@ -1,4 +1,4 @@
-package com.tdd.part4;
+package com.tdd.part4.entity;
 
 /**
  * Created by Administrator on 2017/3/10.

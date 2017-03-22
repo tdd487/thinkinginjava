@@ -1,4 +1,6 @@
-package com.tdd.part4.initializationorder;
+package com.tdd.part4;
+
+import com.tdd.part4.entity.Card;
 
 /**
  * Created by TDD on 2017/3/12.
